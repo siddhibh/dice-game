@@ -1,0 +1,51 @@
+body{
+    background-color: #F0E68C;
+}
+.container {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+img{
+    width: 30%;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Lobster', cursive;
+    color: #008080;
+    margin-top: 10px;  
+}
+p{
+    text-align: center;
+    color: #008080;
+    font-family: 'Comforter', cursive;
+    font-size: 50px;
+}
+h4{
+    text-align: center;
+    font-family: 'Short Stack', cursive;
+    color: #696969;
+}
+.foot{
+    width: 15px;
+    height: 15px;
+}
+.a{
+    width: 50%;
+    float: left;
+}
+.b{
+    width: 50%;
+    float: right;
+}
+button{
+    width: 10%;
+    height: 50px;
+    background-color: #008080;
+}
